@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-contract AaveProxy {
+abstract contract AaveProxy {
     /**
      * @notice Return the earned amount to the specified account address up to the present.
      * @param account The account address.
