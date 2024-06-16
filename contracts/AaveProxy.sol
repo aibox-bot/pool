@@ -1,8 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-import "./interfaces/IPool.sol";
-
 contract AaveProxy {
     /**
      * @notice Return the earned amount to the specified account address up to the present.
