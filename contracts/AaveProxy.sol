@@ -2,7 +2,9 @@
 pragma solidity ^0.8.20;
 
 /**
- * The gateway contract for obtaining arbitrage funds through Aave.
+ * @title AaveProxy
+ * @author Aibox
+ * @notice The gateway contract for obtaining arbitrage funds through Aave.
  */
 contract AaveProxy {
     /**
