@@ -2,7 +2,7 @@
 
 Aibox is an on-chain arbitrage robot based on its proprietary AI model.
 
-The last updated IPFS Hash:<br/>
+The most recent IPFS hash for the updated interface.:<br/>
 `ipfs://bafybeignmk2nshcpegdzszk6urujburvlmp76xb4itbpibu64uam3kz6oa`
 
 DAPP links:<br/>
